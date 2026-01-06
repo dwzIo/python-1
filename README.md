@@ -1,2 +1,2 @@
 # python-1
-python program to develop money
+program python untuk mengelola keuangan (percobaan)

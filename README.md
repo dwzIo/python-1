@@ -1,4 +1,5 @@
-# 💸 Keuangan Anak Kos (Student Finance Tracker)
+# 💸 Keuangan Anak Kos (Student Finance Tracker)(Trial)
+<img width="1563" height="851" alt="Screenshot 2026-01-13 113546" src="https://github.com/user-attachments/assets/f9dfd92b-c7ab-438d-8db2-45fff007c2fe" />
 
 A sleek, modern desktop application designed to help students or individuals manage their daily finances. Built with Python and Flet, this app provides a focused interface to track monthly budgets, savings, and emergency funds.
 
